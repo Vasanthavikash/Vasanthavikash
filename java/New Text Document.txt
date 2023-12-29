@@ -1,0 +1,22 @@
+public class Datatypes {
+      public static void main(String[] args){
+         Boolean a=true;
+         char c='5';
+         byte b=3;
+         short s=11;
+         int i=23;
+         long l=50l;
+         float f=0.3f;
+         double d=22.4d;
+         String v=vikashkutty
+         system.out.println(a);
+         system.out.println(c);
+         system.out.println(b);
+         system.out.println(s);
+         system.out.println(i);
+         system.out.println(l);
+         system.out.println(f);
+         system.out.println(d);
+         system.out.println(v);
+      }
+}
